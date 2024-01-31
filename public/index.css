@@ -1,0 +1,32 @@
+/* CSS rules*/
+
+h1{
+  font-size: 600%;
+  color: #404041;
+  font-family: 'DM Serif Display', serif;
+}
+
+p{
+  font-size: 200%;
+  color: #404041;
+  font-family: 'Work Sans', sans-serif;
+}
+
+button {
+  background-color: #67E2B5;
+  color: white;
+  font-size: 250%;
+  padding: 20px 70px;
+  border-radius: 200px;
+
+}
+
+/* CSS classes*/
+
+.title {
+  text-align: center;
+}
+
+.smalltext {
+  font-size: 110%
+}
